@@ -1,0 +1,146 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "16cc25a474543fd95c81773ff83dabe9c1a6f141.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/16cc25a474543fd95c81773ff83dabe9c1a6f141.js",
+      "size": 658662,
+      "hash": "16cc25a474543fd95c81773ff83dabe9c1a6f141"
+    },
+    {
+      "path": "fe210b2672e51658183ef064ce00ff3c90c764b9.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/fe210b2672e51658183ef064ce00ff3c90c764b9.css?meteor_css_resource=true",
+      "size": 144368,
+      "hash": "fe210b2672e51658183ef064ce00ff3c90c764b9"
+    },
+    {
+      "path": "packages/d0minikk_materialize-meteor/materialize/font/roboto/Roboto-Bold.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/d0minikk_materialize-meteor/materialize/font/roboto/Roboto-Bold.ttf",
+      "size": 127744,
+      "hash": "47327df0f35e7cd7c8645874897a7449697544ae"
+    },
+    {
+      "path": "packages/d0minikk_materialize-meteor/materialize/font/roboto/Roboto-Light.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/d0minikk_materialize-meteor/materialize/font/roboto/Roboto-Light.ttf",
+      "size": 126792,
+      "hash": "e321c183e2b75ee19813892b7bac8d7c411cb88a"
+    },
+    {
+      "path": "packages/d0minikk_materialize-meteor/materialize/font/roboto/Roboto-Medium.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/d0minikk_materialize-meteor/materialize/font/roboto/Roboto-Medium.ttf",
+      "size": 127488,
+      "hash": "6060ca726b9760b76f7c347dce9d2fa1fe42ec92"
+    },
+    {
+      "path": "packages/d0minikk_materialize-meteor/materialize/font/roboto/Roboto-Regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/d0minikk_materialize-meteor/materialize/font/roboto/Roboto-Regular.ttf",
+      "size": 126072,
+      "hash": "824b5480c977a8166e177e5357d13164ccc45f47"
+    },
+    {
+      "path": "packages/d0minikk_materialize-meteor/materialize/font/roboto/Roboto-Thin.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/d0minikk_materialize-meteor/materialize/font/roboto/Roboto-Thin.ttf",
+      "size": 127584,
+      "hash": "173ed64528b4d010a76d8d38deb1d7e7eed58eda"
+    },
+    {
+      "path": "packages/d0minikk_materialize-meteor/materialize/font/material-design-icons/Material-Design-Icons.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/d0minikk_materialize-meteor/materialize/font/material-design-icons/Material-Design-Icons.eot",
+      "size": 141748,
+      "hash": "5b769d54a3c3f67cdbbe0d798b018d7903d14e1b"
+    },
+    {
+      "path": "packages/d0minikk_materialize-meteor/materialize/font/material-design-icons/Material-Design-Icons.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/d0minikk_materialize-meteor/materialize/font/material-design-icons/Material-Design-Icons.svg",
+      "size": 330132,
+      "hash": "cca9f54d4f77567a1081eb3bae99b847df7daf9b"
+    },
+    {
+      "path": "packages/d0minikk_materialize-meteor/materialize/font/material-design-icons/Material-Design-Icons.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/d0minikk_materialize-meteor/materialize/font/material-design-icons/Material-Design-Icons.ttf",
+      "size": 141528,
+      "hash": "a76e6a868bd3632392872272032cc22ade12090a"
+    },
+    {
+      "path": "packages/d0minikk_materialize-meteor/materialize/font/material-design-icons/Material-Design-Icons.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/d0minikk_materialize-meteor/materialize/font/material-design-icons/Material-Design-Icons.woff",
+      "size": 141604,
+      "hash": "e7fdf38f5e9eeb468db71f39e449feb8752d0e89"
+    },
+    {
+      "path": "packages/pfafman_font-awesome-4/lib/fonts/fontawesome-webfont.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/pfafman_font-awesome-4/lib/fonts/fontawesome-webfont.woff",
+      "size": 65452,
+      "hash": "7d65e0227d0d7cdc1718119cd2a7dce0638f151c"
+    },
+    {
+      "path": "app/img/bgs/bkg-1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/bgs/bkg-1.jpg",
+      "size": 1441988,
+      "hash": "fe1499f29eb3cfc1198eadc9fe3eb8b99199d026"
+    },
+    {
+      "path": "app/img/bgs/bkg-3.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/bgs/bkg-3.jpg",
+      "size": 301987,
+      "hash": "c319fbb51df6a2badc744f27fd27dfe66eaa42a5"
+    },
+    {
+      "path": "app/img/bgs/bkg-7.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/bgs/bkg-7.jpg",
+      "size": 251748,
+      "hash": "7f4702dbf47cc19aa5fb6a6cf0c631c7fb6d8729"
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "e6efe31cfaca22e66db3bd011e60bbcf834c6f37"
+    }
+  ]
+}

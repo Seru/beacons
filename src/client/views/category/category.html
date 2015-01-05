@@ -1,0 +1,16 @@
+<template name="category">
+  <div class="row">
+    {{#each categories}}
+      <div class="col s12 m6">
+        <a href="/category/{{_id}}">
+          <div class="card blue-grey darken-1">
+            <div class="card-content white-text">
+              <span class="card-title">{{name}}</span>
+              <p>{{description}}</p>
+            </div>
+          </div>
+        </a>
+      </div>
+    {{/each}}
+  </div>
+</template>
