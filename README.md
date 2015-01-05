@@ -3,7 +3,7 @@ Dies ist das Programm zu meiner Bachelorarbeit zum Thema "Nutzung von Bluetooth-
 
 Das Repository ist erreichbar unter: https://github.com/Seru/beacons
 
-Ich empfehle, das Projekt von dort herunterzuladen
+Ich empfehle, das Projekt von dort herunterzuladen.
 
 ## Projektstruktur
 - `source`: Quelldateien des Projektes
